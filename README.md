@@ -1,3 +1,5 @@
+# Virus Attack
+
 Il gioco Virus_Attack è stato realizzato da Michael Celli e Daniele Fippi. Tutti i modelli 3D, le immagini, i video e i suoni presenti all'interno del gioco sono stati fatti totalmente da zero e quindi inventati per il gioco in questione. 
 L'idea principale del gioco è quella di un nano-robot che si trova all'interno delle vene di un uomo e deve combattere contro virus e batteri, cercando di distruggerli, in modo da salvare il paziente.
 
