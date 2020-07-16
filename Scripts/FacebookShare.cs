@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class FacebookShare : MonoBehaviour
 {
-    public Text userIdText;
+    //public Text userIdText;
 
     private void Awake()
     {
